@@ -1,0 +1,15 @@
+{
+	"name": "areeba-adf001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51bd8090-db0b-465c-9e1f-9ca4a8267520",
+		"tenantId": "3392dbbb-49c2-45cc-bfd2-6a593916d3c3"
+	}
+}
